@@ -1,0 +1,86 @@
+{
+    "Коралова2*": {
+        "name": "Коралова2*",
+        "url": "https://www.turpravda.ua/uc/sevastopol/Korallovaja-h40604.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Микита3*": {
+        "name": "Микита3*",
+        "url": "https://www.turpravda.ua/uc/sevastopol/Nikita-h36086.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Відень2*": {
+        "name": "Відень2*",
+        "url": "https://www.turpravda.ua/uc/simferopol/Vena-h35175.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Джур-Джур2*": {
+        "name": "Джур-Джур2*",
+        "url": "https://www.turpravda.ua/uc/solnechnegorskoe/Dzhur_Dzhur-h33585.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Леман1*": {
+        "name": "Леман1*",
+        "url": "https://www.turpravda.ua/uc/sudak/Leman-h45641.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Хані2*": {
+        "name": "Хані2*",
+        "url": "https://www.turpravda.ua/uc/uglovoe/Hani-h27865.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "СанАндре2*": {
+        "name": "СанАндре2*",
+        "url": "https://www.turpravda.ua/uc/uglovoe/San_Andre-h39806.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Елінг№1522*": {
+        "name": "Елінг№1522*",
+        "url": "https://www.turpravda.ua/uc/utes/Elling__152-h44476.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Фортуна3*": {
+        "name": "Фортуна3*",
+        "url": "https://www.turpravda.ua/uc/utes/Fortuna-h33569.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Гала3*": {
+        "name": "Гала3*",
+        "url": "https://www.turpravda.ua/uc/yalta/Gala-h25424.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "Міні-готельбіляВірменськоїЦеркви1*": {
+        "name": "Міні-готельбіляВірменськоїЦеркви1*",
+        "url": "https://www.turpravda.ua/uc/yalta/mini_otel_vozle_armjanskoj_cerkvi-h70086.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    },
+    "ЗолотоАзарта2*": {
+        "name": "ЗолотоАзарта2*",
+        "url": "https://www.turpravda.ua/uc/yalta/Zoloto_Azarta-h26381.html",
+        "rate": "8.0",
+        "city": "Крим,\nЯлта",
+        "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес"
+    }
+}
