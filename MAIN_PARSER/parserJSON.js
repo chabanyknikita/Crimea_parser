@@ -7,13 +7,18 @@ fetch('/JSON_CRIMEA/merged_file.json')
       keyJSON.rate = +keyJSON.rate
       emptyArr.push(keyJSON)
     }
-    console.log(data)
+    // console.log(data)
     emptyArr = emptyArr.sort((a, b) => {
       if (a.rate == b.rate) return 0
       if (a.rate < b.rate) return -1
       if (a.rate > b.rate) return 1
     })
     console.log(emptyArr)
-    document.getElementById('arrayMessage').innerHTML = JSON.stringify(emptyArr)
+    const obj = Object.assign({}, emptyArr)
+    document.getElementById('whereToPrint').innerHTML = JSON.stringify(
+      obj,
+      null,
+      10
+    )
   })
   .catch((error) => console.log(error))

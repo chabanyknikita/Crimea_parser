@@ -1,0 +1,29 @@
+.nameJSON {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  overflow: auto;
+}
+
+body {
+  background-color: rgb(33, 51, 87);
+}
+
+pre {
+  color: aliceblue;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  overflow: auto;
+}
